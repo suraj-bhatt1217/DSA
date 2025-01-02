@@ -23,5 +23,6 @@ def main():
     head.next.next.next.next.next = Node(60)
     print(getReversedLL(head).data)
     
+    
 if __name__ == "__main__":
     main()   
