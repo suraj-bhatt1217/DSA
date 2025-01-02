@@ -1,3 +1,4 @@
+# Naive approach - By counting nodes
 class Node:
     def __init__(self, data):
         self.data = data
