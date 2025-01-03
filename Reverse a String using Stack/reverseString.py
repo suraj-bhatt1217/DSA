@@ -9,6 +9,4 @@ def reverseString(s):
         
     return "".join(revStack)
     
-    
-
 print(reverseString("TechQuiz"))
